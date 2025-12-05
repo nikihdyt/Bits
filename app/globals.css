@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+@layer components {
+  .gradient-peak {
+    background: linear-gradient(135deg, #73ADA6 0%, #9ACEC9 100%);
+  }
+
+  .gradient-steady {
+    background: linear-gradient(135deg, #6B7D97 0%, #858FA9 100%);
+  }
+
+  .gradient-attention {
+    background: linear-gradient(135deg, #C2A678 0%, #D5C399 100%);
+  }
+
+  .gradient-recovery {
+    background: linear-gradient(135deg, #B3858A 0%, #C89FA2 100%);
+  }
+
+  .card {
+    @apply bg-white rounded-3xl shadow-sm;
+  }
+
+  .btn-primary {
+    @apply px-6 py-3 rounded-xl font-semibold transition-all;
+  }
+
+  .section-padding {
+    @apply py-20 px-6 md:px-12 lg:px-24;
+  }
+}
