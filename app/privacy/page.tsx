@@ -127,7 +127,7 @@ export default function PrivacyPage() {
               If you have any questions about this Privacy Policy, please contact us at:
             </p>
             <p className="text-gray-700 mt-4">
-              Email: <a href="mailto:privacy@bits.app" className="text-peak hover:underline">privacy@bits.app</a>
+              Email: <a href="mailto:nikihidayati20@gmail.com" className="text-peak hover:underline">nikihidayati20@gmail.com</a>
             </p>
           </section>
         </div>

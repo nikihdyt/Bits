@@ -82,7 +82,7 @@ export default function SupportPage() {
           <h2 className="text-2xl font-bold mb-4">Still Need Help?</h2>
           <p className="mb-6 opacity-90">We're here to help! Reach out to our support team.</p>
           <a
-            href="mailto:support@bits.app"
+            href="mailto:nikihidayati20@gmail.com"
             className="inline-block bg-white text-peak px-8 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors"
           >
             Contact Support

@@ -55,7 +55,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="mailto:support@bits.app" className="hover:text-white transition-colors">
+                <a href="mailto:nikihidayati20@gmail.com" className="hover:text-white transition-colors">
                   Contact Us
                 </a>
               </li>
