@@ -67,12 +67,7 @@ export default function Footer() {
             <h3 className="font-bold mb-4">Connect</h3>
             <ul className="space-y-2 text-sm text-gray-400">
               <li>
-                <a href="https://twitter.com/bitsapp" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
-                  Twitter
-                </a>
-              </li>
-              <li>
-                <a href="https://instagram.com/bitsapp" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://instagram.com/try.bits.app" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   Instagram
                 </a>
               </li>
